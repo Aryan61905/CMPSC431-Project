@@ -1,0 +1,78 @@
+{
+    "database_keys":
+    {
+        "dbname": "CMPSC431W",
+        "user": "postgres",
+        "password": "CMPSC431W"
+
+    },
+
+    "team_mapping":
+    {
+    "TOT": "Total",
+    "ATL": "Atlanta Hawks",
+    "BOS": "Boston Celtics",
+    "BRK": "Brooklyn Nets",
+    "CHI": "Chicago Bulls",
+    "CHO": "Charlotte Hornets",
+    "CLE": "Cleveland Cavaliers",
+    "DAL": "Dallas Mavericks",
+    "DEN": "Denver Nuggets",
+    "DET": "Detroit Pistons" ,
+    "GSW":  "Golden State Warriors",
+    "HOU": "Houston Rockets",
+    "IND": "Indiana Pacers",
+    "LAC": "Los Angeles Clippers",
+    "LAL": "Los Angeles Lakers",
+    "MEM": "Memphis Grizzlies",
+    "MIA": "Miami Heat",
+    "MIL": "Milwaukee Bucks",
+    "MIN": "Minnesota Timberwolves",
+    "NOP": "New Orleans Pelicans",
+    "NYK": "New York Knicks",
+    "OKC": "Oklahoma City Thunder",
+    "ORL": "Orlando Magic",
+    "PHI": "Philadelphia 76ers",
+    "PHO": "Phoenix Suns",
+    "POR": "Portland Trail Blazers",
+    "SAC": "Sacramento Kings",
+    "SAS": "San Antonio Spurs",
+    "TOR": "Toronto Raptors",
+    "UTA": "Utah Jazz",
+    "WAS": "Washington Wizards"
+    },
+    "arena_mapping":
+    {
+    "Atlanta Hawks": "State Farm Arena",
+    "Boston Celtics": "TD Garden",
+    "Brooklyn Nets": "Barclays Center",
+    "Chicago Bulls": "United Center",
+    "Charlotte Hornets": "Spectrum Center",
+    "Cleveland Cavaliers": "Rocket Mortgage Fieldhouse",
+    "Dallas Mavericks": "American Airlines Center",
+    "Denver Nuggets": "Ball Arena",
+    "Detroit Pistons": "Little Caesars Arena",
+    "Golden State Warriors": "Chase Center",
+    "Houston Rockets": "Toyota Center",
+    "Indiana Pacers": "Gainbridge Fieldhouse",
+    "Los Angeles Clippers": "Crypto.com Arena",
+    "Los Angeles Lakers": "Crypto.com Arena",
+    "Memphis Grizzlies": "FedEx Forum",
+    "Miami Heat": "Kaseya Center",
+    "Milwaukee Bucks": "Fiserv Forum",
+    "Minnesota Timberwolves": "Target Center",
+    "New Orleans Pelicans": "Smoothie King Center",
+    "New York Knicks": "Madison Square Garden (IV)",
+    "Oklahoma City Thunder": "Paycom Center",
+    "Orlando Magic": "Amway Center",
+    "Philadelphia 76ers": "Wells Fargo Center",
+    "Phoenix Suns": "Footprint Center",
+    "Portland Trail Blazers": "Moda Center",
+    "Sacramento Kings": "Golden 1 Center",
+    "San Antonio Spurs": "Frost Bank Center",
+    "Toronto Raptors": "Scotiabank Arena",
+    "Utah Jazz": "Delta Center",
+    "Washington Wizards": "Capital One Arena" 
+    }
+    
+}
